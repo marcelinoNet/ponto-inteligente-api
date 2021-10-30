@@ -1,6 +1,6 @@
 package com.example.pontointeligente.api;
 
-import org.junit.*;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
