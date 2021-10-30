@@ -1,6 +1,4 @@
-# ponto-inteligente-api
-<<<<<<< HEAD
+[![Build Status](https://app.travis-ci.com/marcelinoNet/ponto-inteligente-api.svg?branch=master)](https://app.travis-ci.com/marcelinoNet/ponto-inteligente-api)
+
+# Ponto Inteligente
 Estudando spring boot -  fazendo uma api  de um sistema de Ponto inteligente
-=======
-Estudando Spring boot - Sistema de ponto inteligente
->>>>>>> 0c4f4b8840a31cb525b0130822067476df49a361
